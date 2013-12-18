@@ -1,6 +1,6 @@
 title:            Design Metrics
 tagline:          A space for resources and conversation.
-description:      This would describe the website if I was feeling clever.
+description:      This website is a space for the Balanced Team community to discuss and pin resources around metrics-driven design.
 #Comment out url when working locally to resolve base urls correctly
 url: http://designmetrics.github.io
 
@@ -8,13 +8,10 @@ url: http://designmetrics.github.io
 owner:
   name:           Balanced Team community
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  email:          alexa@klugeinteractive.com
+  twitter:        balancedteam      
+  github:         designmetrics       
+  disqus:         designmetrics
   # Plug in your disqus shortname!
   
 
@@ -28,7 +25,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/San_Francisco
 future:      true
 pygments:    true
 markdown:    kramdown
