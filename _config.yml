@@ -2,7 +2,7 @@ title:            Design Metrics
 tagline:          A space for resources and conversation.
 description:      This would describe the website if I was feeling clever.
 #Comment out url when working locally to resolve base urls correctly
-url: http://metricdesign.github.io
+url: http://designmetrics.github.io
 
 # Owner/author information
 owner:
