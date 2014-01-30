@@ -5,7 +5,7 @@ description: "The fast-moving intersection of games, mobile, and advertising is 
 category: articles
 tags: [design, metrics, frameworks]
 image:
-  feature: images/metrics-driven-design.jpg
+  feature: metrics-driven-design.jpg
 ---
 For our UX team, metrics are key to how we help our partners, mobile game developers and brands, outperform other networks and win through their ads, ad formats, and overall approach to in-game economies. Jane Fulton Suri at IDEO said something recently that has helped to inform our approach to UX design:
 
