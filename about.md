@@ -2,10 +2,8 @@
 layout: post
 permalink: /about/index.html
 title: About
-description: This is a description of the about page.
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+description: 
+tags: [about, design, metrics]
 ---
 
-About page info goes here.
+This is resource for metrics-driven design.  At Balanced Team SF 2013, a group of makers came together to share methods and challenges.  We're looking to build on that conversation.  Join us in fostering design that matters.

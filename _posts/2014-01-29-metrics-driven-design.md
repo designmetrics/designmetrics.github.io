@@ -5,12 +5,8 @@ description: "The fast-moving intersection of games, mobile, and advertising is 
 category: articles
 tags: [design, metrics, frameworks]
 image:
-  feature: metrics-driven-design.jpg
+  feature: images/metrics-driven-design.jpg
 ---
-This is a repost of Andrew Korf's blog post on the NativeX Blog.
-
-The fast-moving intersection of games, mobile, and advertising is where the NativeX UX team lives, works, and designs new ways to help our partners rise above the noise. For that, we depend on a process of Metrics Driven Design.
-
 For our UX team, metrics are key to how we help our partners, mobile game developers and brands, outperform other networks and win through their ads, ad formats, and overall approach to in-game economies. Jane Fulton Suri at IDEO said something recently that has helped to inform our approach to UX design:
 
 “Radical innovation requires both evidence and intuition: evidence to become informed, and intuition to inspire us in imagining and creating new and better possibilities.”
@@ -25,7 +21,9 @@ Sharing the outcomes and learnings of this approach within our organization and 
 
 So far, we’ve already seen amazing performance gains for our partners, 100-200%, and even greater increases in eCPMs, where we’ve balanced intuition-driven design with data-driven optimization and learnings.
 
-We’d love to know more about how you use metrics in your design process. If you would like to share or learn more about our design team, and how we are helping our partners achieve their performance goals, please contact us at: <a href="mailto:ux.team@nativex.com">ux.team@nativex.com</a>
+We’d love to know more about how you use metrics in your design process.  If you would like to share or learn more about our design team, please contact us at: <a href="mailto:ux.team@nativex.com">ux.team@nativex.com</a>
+
+This is a repost of Andrew Korf's blog post on the NativeX Blog.
 
 References: <a href="http://bokardo.com/">Joshua Porter</a>
 
