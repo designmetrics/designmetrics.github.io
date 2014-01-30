@@ -8,4 +8,4 @@ tags: [sample post, readability, test]
 
 We are just at the beginning of this movement.  There are many existing frameworks for measuring product success, but rarely are they attributed to specific elements of design.  As we explore the nuance between structural design and aesthetic design, how do we carry that through to metrics?
 
-Please tweet us @BalancedTeam with #DesignMetrics to share any resources we should add to this site.  
+Please tweet us <a href="http://twitter.com/balancedteam">@BalancedTeam</a> with #DesignMetrics to share any resources we should add to this site.  
