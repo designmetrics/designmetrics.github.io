@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Metrics Driven Design
+author: andrew_korf
 description: "The fast-moving intersection of games, mobile, and advertising is where the NativeX UX team lives, works, and designs new ways to help our partners rise above the noise. For that, we depend on a process of Metrics Driven Design."
 category: articles
 tags: [design, metrics, frameworks]
