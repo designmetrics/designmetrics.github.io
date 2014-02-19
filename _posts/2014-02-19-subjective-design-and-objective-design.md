@@ -6,7 +6,7 @@ description: "Jonathan Berger considers a framework for design discussion.  Orig
 category: articles
 tags: [subjective, objective, frameworks]
 ---
-"DESIGN" IS A MESSY WORD
+"DESIGN" IS A MESSY WORD<br>
 When people ask what I do and I reply "I’m a designer", their first reaction is often to point at my chest: "Oh! Did you design that shirt?"
 
 "Not that kind of designer,''  I reply.
