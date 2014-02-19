@@ -2,12 +2,14 @@
 layout: post
 title: Metrics Driven Design
 author: andrew_korf
-description: "The fast-moving intersection of games, mobile, and advertising is where the NativeX UX team lives, works, and designs new ways to help our partners rise above the noise. For that, we depend on a process of Metrics Driven Design."
+description: "Andrew Korf explores data-driven design and optimizing for learning.  Originally posted on the NativeX blog."
 category: articles
 tags: [design, metrics, frameworks]
 image:
   feature: metrics-driven-design.jpg
 ---
+The fast-moving intersection of games, mobile, and advertising is where the NativeX UX team lives, works, and designs new ways to help our partners rise above the noise. For that, we depend on a process of Metrics Driven Design.
+
 For our UX team, metrics are key to how we help our partners, mobile game developers and brands, outperform other networks and win through their ads, ad formats, and overall approach to in-game economies. Jane Fulton Suri at IDEO said something recently that has helped to inform our approach to UX design:
 
 “Radical innovation requires both evidence and intuition: evidence to become informed, and intuition to inspire us in imagining and creating new and better possibilities.”
