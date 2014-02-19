@@ -10,11 +10,19 @@
   <div class="featured-image" style="background-image: url({{ site.url }}/images/typewriter.jpg)"></div>
 {% endif %}
 
-
       <article class="wrap post">
         <header class="post-header">
           <hgroup>
             <h1>{{page.title}}</h1>
+<!-- Look the author details up from the site config. -->
+                   {% assign author = site.authors[page.author] %}
+<!-- Output author details if some exist. -->
+                   {% if author %}
+                  <span>
+<!-- Personal Info. -->
+                  Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+                  </span>
+                  {% endif %}
             <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
           </hgroup>

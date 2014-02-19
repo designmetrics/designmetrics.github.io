@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: "Design Metrics Matter"
 description: "In the fall of 2013, a group of interdisciplinary makers came together for the Balanced Team San Francisco event.  This site resulted from a small group conversation on metrics-driven design frameworks."
+author: alexa_roman
 category: articles
 tags: [sample post, readability, test]
 ---

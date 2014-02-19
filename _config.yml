@@ -12,8 +12,20 @@ owner:
   twitter:        balancedteam      
   github:         designmetrics       
   disqus:         designmetrics
-  # Plug in your disqus shortname!
-  
+
+authors:
+  alexa_roman:
+    name: Alexa Roman 
+    email: alexa.mariel@gmail.com
+    web: http://twitter.com/calexity
+  andrew_korf:
+    name: Andrew Korf 
+    email: andrew@korf.com
+    web: http://nativex.com
+  jonathan_berger:
+    name: Jonathan Berger 
+    email: jonathanpberger@gmail.com
+    web: http://jonathanpberger.com 
 
 # Links to include in top navigation
 # For external links add external: true
