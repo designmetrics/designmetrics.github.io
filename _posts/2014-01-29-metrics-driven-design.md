@@ -30,4 +30,5 @@ References: <a href="http://bokardo.com/">Joshua Porter</a>
 
 Sketchnotes by: <a href="http://bloomready.com">Bloom</a>
 
-This is a repost of Andrew Korf's blog post on the NativeX Blog.
+<br>
+Original Article <a href="http://nativex.com/art/metrics-driven-design/">on the NativeX blog.</a>
