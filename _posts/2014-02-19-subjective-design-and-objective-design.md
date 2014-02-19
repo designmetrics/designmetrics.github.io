@@ -3,14 +3,14 @@ layout: post-no-feature
 title: "Subjective Design & Objective Design"
 author: jonathan_berger
 description: " "DESIGN" IS A MESSY WORD
- When people ask what I do and I reply “I’m a designer”, their first reaction is often to point at my chest: “Oh! Did you design that shirt?” "
+ When people ask what I do and I reply "I’m a designer", their first reaction is often to point at my chest: "Oh! Did you design that shirt?'' "
 category: articles
 tags: [subjective, objective, frameworks]
 ---
 
-“Not that kind of designer,”  I reply.
+"Not that kind of designer,''  I reply.
 
-Next they’ll point somewhere around the room.  “Oh”, they’ll say “did you hang that wallpaper?”
+Next they’ll point somewhere around the room.  "Oh", they’ll say “did you hang that wallpaper?”
 
 “Not that kind of designer”, again.  Rather than let this game play on, this is usually the time to describe web design, interaction design, product design, visual design, UX design, UI design, etc. T he content is tailored to the design-literacy of the interlocutor, but the story is the same.  Modern “design” in the context of building products is a mix of many different design disciplines (and: <a href="http://pivotallabs.com/not-in-a-name/">naming things</a> <a href="http://www.quora.com/Computer-Science/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier">is</a> <a href="http://martinfowler.com/bliki/TwoHardThings.html">hard</a>.)
 

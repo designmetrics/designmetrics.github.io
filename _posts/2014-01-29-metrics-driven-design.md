@@ -24,8 +24,8 @@ So far, we’ve already seen amazing performance gains for our partners, 100-200
 
 We’d love to know more about how you use metrics in your design process.  If you would like to share or learn more about our design team, please contact us at: <a href="mailto:ux.team@nativex.com">ux.team@nativex.com</a>
 
-This is a repost of Andrew Korf's blog post on the NativeX Blog.
-
 References: <a href="http://bokardo.com/">Joshua Porter</a>
 
 Sketchnotes by: <a href="http://bloomready.com">Bloom</a>
+
+This is a repost of Andrew Korf's blog post on the NativeX Blog.
