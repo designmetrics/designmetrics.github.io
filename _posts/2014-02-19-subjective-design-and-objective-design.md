@@ -13,7 +13,7 @@ When people ask what I do and I reply "I’m a designer", their first reaction i
 
 Next they’ll point somewhere around the room.  "Oh", they’ll say “did you hang that wallpaper?”
 
-“Not that kind of designer”, again.  Rather than let this game play on, this is usually the time to describe web design, interaction design, product design, visual design, UX design, UI design, etc.  The content is tailored to the design-literacy of the interlocutor, but the story is the same.  Modern “design” in the context of building products is a mix of many different design disciplines (and: <span style="text-decoration:underline"><a href="http://pivotallabs.com/not-in-a-name/">naming things</a></span> <span style="text-decoration:underline"><a href="http://www.quora.com/Computer-Science/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier">is</a></span> <span style="text-decoration:underline"><a href="http://martinfowler.com/bliki/TwoHardThings.html">hard</a></span>.)
+“Not that kind of designer”, again.  Rather than let this game play on, this is usually the time to describe web design, interaction design, product design, visual design, UX design, UI design, etc.  The content is tailored to the design-literacy of the interlocutor, but the story is the same.  Modern “design” in the context of building products is a mix of many different design disciplines (and: <span style="text-decoration:underline"><a href="http://pivotallabs.com/not-in-a-name/" target="_blank">naming things</a></span> <span style="text-decoration:underline"><a href="http://www.quora.com/Computer-Science/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier" target="_blank">is</a></span> <span style="text-decoration:underline"><a href="http://martinfowler.com/bliki/TwoHardThings.html" target="_blank">hard</a></span>.)
 
 IS DESIGN OBJECTIVE OR SUBJECTIVE?
 <br>
@@ -52,4 +52,4 @@ TL;DR
 The utility of objective and subjective judgement varies by type of design, and we don’t do a good job of speaking clearly about this.  If we, as a design community can educate clients the spectrum of subjectivity vs. type-of-design, we can save ourselves tons of pain—and save clients mega-tons of money.  Does this taxonomy seem right? Discuss!
 
 <br>
-Original Article <a href="http://pivotallabs.com/subjective-objective-design/">on the Pivotal Labs blog.</a>
+Original Article <a href="http://pivotallabs.com/subjective-objective-design/" target="_blank">on the Pivotal Labs blog.</a>

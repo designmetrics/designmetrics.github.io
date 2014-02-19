@@ -24,11 +24,11 @@ Sharing the outcomes and learnings of this approach within our organization and 
 
 So far, we’ve already seen amazing performance gains for our partners, 100-200%, and even greater increases in eCPMs, where we’ve balanced intuition-driven design with data-driven optimization and learnings.
 
-We’d love to know more about how you use metrics in your design process.  If you would like to share or learn more about our design team, please contact us at: <a href="mailto:ux.team@nativex.com">ux.team@nativex.com</a>
+We’d love to know more about how you use metrics in your design process.  If you would like to share or learn more about our design team, please contact us at: <a href="mailto:ux.team@nativex.com" target="_blank">ux.team@nativex.com</a>
 
-References: <a href="http://bokardo.com/">Joshua Porter</a>
+References: <a href="http://bokardo.com/" target="_blank">Joshua Porter</a>
 
-Sketchnotes by: <a href="http://bloomready.com">Bloom</a>
+Sketchnotes by: <a href="http://bloomready.com" target="_blank">Bloom</a>
 
 <br>
-Original Article <a href="http://nativex.com/art/metrics-driven-design/">on the NativeX blog.</a>
+Original Article <a href="http://nativex.com/art/metrics-driven-design/" target="_blank">on the NativeX blog.</a>
