@@ -2,8 +2,7 @@
 layout: post-no-feature
 title: "Subjective Design & Objective Design"
 author: jonathan_berger
-description: " "DESIGN" IS A MESSY WORD
- When people ask what I do and I reply "I’m a designer", their first reaction is often to point at my chest: "Oh! Did you design that shirt?'' "
+description: "description"
 category: articles
 tags: [subjective, objective, frameworks]
 ---
