@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Subjective Design & Objective Design"
 author: jonathan_berger
-description: "A repost of Jonathan Berger's article considering a framework for design discussion."
+description: "Jonathan Berger considers a framework for design discussion.  Originally posted on the Pivotal Labs blog."
 category: articles
 tags: [subjective, objective, frameworks]
 ---
